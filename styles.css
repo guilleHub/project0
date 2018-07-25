@@ -1,7 +1,17 @@
-
-
 body {
     font-family: monospace;
     color: chartreuse;
     background-color: black;
+}
+
+a {
+    color: chartreuse;
+}
+
+.topnav {
+    font-size: large;
+}
+
+hr {
+    border-width: 2px;
 }
